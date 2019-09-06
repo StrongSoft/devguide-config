@@ -1,17 +1,17 @@
-greeging: "안녕하세요."
+greeting: "안녕하세요."
 
 ---
 spring:
   profiles: stage
-greeging: "스테이징 서버에 오신걸 환영합니다."
+greeting: "스테이징 서버에 오신걸 환영합니다."
 
 
 ---
 spring:
   profiles: dev
-greeging: "개발 서버에 오신걸 환영합니다."
+greeting: "개발 서버에 오신걸 환영합니다."
 
 ---
 spring:
   profiles: local
-greeging: "로컬 서버에 오신걸 환영합니다."
+greeting: "로컬 서버에 오신걸 환영합니다."
